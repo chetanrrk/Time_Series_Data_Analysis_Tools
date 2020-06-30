@@ -1,5 +1,5 @@
 import unittest
-from time_series_analysis.data_reader import DataReader
+from Time_Series_DataAnalysis_Tool.time_series_analysis.data_reader import DataReader
 
 
 class DataReaderTestCase(unittest.TestCase):

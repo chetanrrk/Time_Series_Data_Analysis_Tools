@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from time_series_analysis.convergence_analysis import ConvergenceAnalysis
+from Time_Series_DataAnalysis_Tool.time_series_analysis.convergence_analysis import ConvergenceAnalysis
 
 
 class ConvergenceAnalysisTestCase(unittest.TestCase):

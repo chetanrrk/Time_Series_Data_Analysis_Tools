@@ -1,7 +1,7 @@
 import os
 import sys
 import numpy as np
-from time_series_analysis.auto_coorelation import AutoCorrelation
+from Time_Series_DataAnalysis_Tool.time_series_analysis.auto_coorelation import AutoCorrelation
 
 if __name__ == "__main__":
     """

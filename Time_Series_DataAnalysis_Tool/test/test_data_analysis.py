@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from time_series_analysis.data_analysis import DataAnalysis
+from Time_Series_DataAnalysis_Tool.time_series_analysis.data_analysis import DataAnalysis
 
 
 class DataAnalysisTestCase(unittest.TestCase):
