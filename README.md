@@ -40,4 +40,4 @@ the code handles 1 to "n" higher dimensional data
 
 To install the package:
 
-pip install Time-Series-DataAnalysis-Tool==0.1.9.1
+pip install Time-Series-DataAnalysis-Tool==0.1.9.3
