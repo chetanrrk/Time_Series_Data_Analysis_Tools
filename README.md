@@ -2,18 +2,28 @@ This package provides some subpackages containing classes and functions to analy
 
 "time_series_analysis" package contains four main classes
 
+
 1) data_reader.py:
 Contains DataReader class that reads in a time series data from a flat file
+
 Data should be in multiple rows per time step data could contain 1 or more columns that evolves in time
 
+
 2) data_analysis.py:
+
 Contains DataAnalysis class that inherits reader from DataReader
+
 Contains functions to compute mean, standard deviation, 
+
 Contains function to plot time tracy along any dimension
 
+
 3) convergence_analysis.py:
+
 Contains function to test convergence using samples along time to test if mean vary
+
 Can test convergence along one or all dimensions
+
 
 4) auto_correlation.py:
 Contains AutoCorrelation class that inherits DataReader
@@ -40,4 +50,8 @@ the code handles 1 to "n" higher dimensional data
 
 To install the package:
 
+<<<<<<< HEAD
 pip install Time-Series-DataAnalysis-Tool==0.1.9.3
+=======
+pip install Time-Series-DataAnalysis-Tool==0.1.9.3
+>>>>>>> d08cf5f8084a8fbea06567ba567b38d03cabb7d6
