@@ -1,10 +1,4 @@
-.venv/
-venv/
-.vscode/
-/.venv
-/.vscode
-__pycache__/
-/*.pyc
-*.pyc
 .idea/
+__pycache__/
 .DS_Store
+.pyc
