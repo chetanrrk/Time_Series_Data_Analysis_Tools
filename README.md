@@ -50,8 +50,5 @@ the code handles 1 to "n" higher dimensional data
 
 To install the package:
 
-<<<<<<< HEAD
 pip install Time-Series-DataAnalysis-Tool==0.1.9.3
-=======
-pip install Time-Series-DataAnalysis-Tool==0.1.9.3
->>>>>>> d08cf5f8084a8fbea06567ba567b38d03cabb7d6
+
